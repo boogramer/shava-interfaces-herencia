@@ -1,5 +1,3 @@
-package bytebank;
-
 public class SistemaInterno {
     public boolean autenticar(Autenticable funcionario){
         String clave = "pollsfitj";

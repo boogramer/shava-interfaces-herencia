@@ -1,4 +1,3 @@
-package bytebank;
 
 public class Administrador extends Funcionario implements Autenticable {
 

@@ -1,4 +1,3 @@
-package bytebank;
 
 public class AutenticacionUtil {
     private String clave;

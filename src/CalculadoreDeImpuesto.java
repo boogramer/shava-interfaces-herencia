@@ -1,4 +1,3 @@
-package bytebank;
 public class CalculadoreDeImpuesto {
 
     private double totalImpuesto;

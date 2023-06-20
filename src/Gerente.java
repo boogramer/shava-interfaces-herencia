@@ -1,4 +1,3 @@
-package bytebank;
 public class Gerente extends Funcionario implements Autenticable {
 
 /*    private String clave;

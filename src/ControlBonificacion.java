@@ -1,5 +1,3 @@
-package bytebank;
-
 public class ControlBonificacion {
 
 	private double suma;

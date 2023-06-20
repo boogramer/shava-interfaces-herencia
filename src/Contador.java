@@ -1,4 +1,3 @@
-package bytebank;
 public class Contador extends Funcionario {
 	@Override
 	public double getBonificacion() {

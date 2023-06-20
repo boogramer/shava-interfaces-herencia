@@ -1,4 +1,3 @@
-package bytebank;
 public class TestTributacion {
 
     public static void main(String[] args) {

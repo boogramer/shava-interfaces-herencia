@@ -1,5 +1,3 @@
-package bytebank;
-
 public class CuentaAhorros extends Cuenta implements Tributacion {
 	
 	public CuentaAhorros(int agencia, int numero) {

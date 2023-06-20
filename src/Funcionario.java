@@ -1,5 +1,3 @@
-package bytebank;
-
 public abstract class Funcionario {
 
     private String nombre;

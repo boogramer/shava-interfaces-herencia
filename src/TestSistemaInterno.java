@@ -4,7 +4,7 @@ public class TestSistemaInterno {
         Gerente gerente1 = new Gerente();
         Administrador admin = new Administrador();
 
-        gerente1.setClave("xd");
+        gerente1.setClave("pollsfitj");
         admin.setClave("pollsfitj");
         //gerente1.iniciarSesion("pollas");
         //admin.iniciarSesion("admin01");

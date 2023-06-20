@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a904419-0da1-4888-a890-024832f8f0b1" name="Changes" comment="">
+    <list default="true" id="3a904419-0da1-4888-a890-024832f8f0b1" name="Changes" comment="no se que fasho">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Autenticable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Autenticable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AutenticacionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AutenticacionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,18 @@
       <option name="presentableId" value="Default" />
       <updated>1687286871437</updated>
     </task>
+    <task id="LOCAL-00001" summary="no se que fasho">
+      <created>1687291211971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687291211971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="no se que fasho" />
+    <option name="LAST_COMMIT_MESSAGE" value="no se que fasho" />
   </component>
 </project>

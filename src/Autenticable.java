@@ -1,6 +1,6 @@
 
 public  interface Autenticable {
 
-    public  void setClave(String clave);
-    public  boolean iniciarSesion(String clave);
+    void setClave(String clave);
+    boolean iniciarSesion(String clave);
 }

@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a904419-0da1-4888-a890-024832f8f0b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Autenticable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Autenticable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AutenticacionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AutenticacionUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculadoreDeImpuesto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculadoreDeImpuesto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControlBonificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ControlBonificacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cuenta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CuentaAhorros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CuentaAhorros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CuentaCorriente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CuentaCorriente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SeguroDeVida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeguroDeVida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaInterno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestControlBonificacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestControlBonificacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestCuenta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestCuenta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestGerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestReferencias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestSistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSistemaInterno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestTributacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestTributacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tributacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tributacion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +32,20 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="TestSistemaInterno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSistemaInterno" />
+      <module name="shava-interfaces-herencia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSistemaInterno" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
